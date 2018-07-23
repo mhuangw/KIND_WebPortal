@@ -17,11 +17,13 @@ Once Node and npm are installed, use the following command to install the Ionic 
 npm install -g ionic
 </code>
 
+
 If you have an Ionic account, you can also login and take advantage of Ionic Pro features with the following command:
 
 <code>
 ionic login
 </code>
+
 
 To run the app, cd into your app's directory (myApp in this case) and type:
 
