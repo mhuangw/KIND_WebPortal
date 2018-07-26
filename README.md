@@ -37,6 +37,10 @@ ionic cordova plugin add cordova-plugin-youtube-video-player
 npm install --save @ionic-native/youtube-video-player
 </code>
 
+# Running the app on your phone 
+
+Ionic has a mobile application called Ionic DevApp that allows you to run Ionic apps on your phone. To do this, download the app and login with the appropriate credentials. Start the Ionic app on your computer using the instructions above. Make sure your phone and computer are connected to the same network and the app should show up on your phone as well.
+
 # Deliverable #1: landing page with helpful documents for the children and attorneys
 User Scenario:
 
